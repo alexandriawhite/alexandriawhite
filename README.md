@@ -1,40 +1,31 @@
-### Hello there! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="wave">
+# Hello there! 👋
 
-Welcome to my GitHub page. My name is Alexandria White. I am currently enrolled in a Full Stack course in the process of learning JavaScript!
-
+Welcome to my portfolio. I am Alexandria White, a Full Stack Developer currently enrolled in Vanderbilt University's Coding Boot Camp. I am working diligently to master the most in-demand web development technologies, including HTML5, CSS3, JavaScript, jQuery, React.js, Node.js, and more. With a rigorous 24-week curriculum and hands-on collaboration with other professionals on real-world projects, I am gaining valuable experience in full-stack web development, building complex applications to expand my professional portfolio. I am passionate about applying my skills to create innovative solutions and continuously enhancing my knowledge and expertise as a developer.
 
 <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
 
+## ⚡ Domains
 
-## ⚡ Domains:
-- Full Stack focused
-- Web Development
-- UI/UX
+- Full Stack development
+- Web development
+- UI/UX design
 
-## 🧐 About
+## 🧐 About me
 
-- ‍Nashville, TN Native
-- Passionate about educating myself of software development and principles
-- Coding bootcamp student in training
+- From Nashville, TN
+- Passionate about software development and principles
+- Enrolled in a coding bootcamp
 
-<details>
-<summary>⚡️More about me</summary>
-<br />
+## ⚡ More about me
+
+Here are some stats about my GitHub activity:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandriawhite&layout=compact)
 
-![github stats](https://github-readme-stats.vercel.app/api?username=alexandriawhite&count_private=true&show_icons=true&theme=onedark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandriawhite&count_private=true&show_icons=true&theme=onedark)
 
-</details>
+## 🌐 Connect with me
 
----
-<div align="center">
-
-<i>Find me on the web!:</i><br>
-
-<a href="https://www.linkedin.com/in/joonkidk" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/joonidk" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://twitter.com/joonsdevacc" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
-<a href="https://open.spotify.com/user/227fhrlnv2kfms5zgb77iptja" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
-
-</div>
+<a href="https://www.linkedin.com/in/alexandria-white2/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
