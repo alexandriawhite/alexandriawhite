@@ -1,6 +1,6 @@
 # Hello there! 👋
 
-Welcome to my portfolio. I am Alexandria White, a Full Stack Developer currently enrolled in Vanderbilt University's Coding Boot Camp. I am working diligently to master the most in-demand web development technologies, including HTML5, CSS3, JavaScript, jQuery, React.js, Node.js, and more. With a rigorous 24-week curriculum and hands-on collaboration with other professionals on real-world projects, I am gaining valuable experience in full-stack web development, building complex applications to expand my professional portfolio. I am passionate about applying my skills to create innovative solutions and continuously enhancing my knowledge and expertise as a developer.
+Welcome to my portfolio! I'm Alexandria White, a Full Stack Developer based in Nashville, TN. I recently completed Vanderbilt University's Coding Boot Camp, where I honed my skills in the most in-demand web development technologies, including HTML5, CSS3, JavaScript, jQuery, React.js, Node.js, and more. With a passion for software development and a dedication to creating innovative solutions, I'm ready to take on exciting projects and contribute to the world of web development.
 
 <img align='right' src='https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif' width='200"'>
 
@@ -12,9 +12,17 @@ Welcome to my portfolio. I am Alexandria White, a Full Stack Developer currently
 
 ## 🧐 About me
 
-- From Nashville, TN
-- Passionate about software development and principles
-- Enrolled in a coding bootcamp
+I'm a curious and detail-oriented developer with a strong focus on user experience and interface design. My goal is to create web applications that not only meet functional requirements but also deliver an exceptional user experience. Throughout my journey in the boot camp, I've gained hands-on experience collaborating with other professionals on real-world projects, allowing me to develop a holistic understanding of full-stack web development.
+## 💼 Skills
+- Full Stack Development
+- Web Development
+- UI/UX Design
+- HTML5, CSS3, JavaScript
+- jQuery, React.js, Node.js
+- MongoDB, Express, Handlebars.js
+- MySQL, SQL
+- Git, GitHub
+- Agile Methodologies
 
 ## ⚡ More about me
 
