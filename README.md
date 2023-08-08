@@ -1,17 +1,10 @@
-# Hello there! 👋
+# Welcome to my portfolio
+Hello! I'm Alexandria White, a highly motivated Full Stack Developer based in Nashville, TN. I am a recent graduate of Vanderbilt University's Coding Boot Camp, where I've gained proficiency in a wide array of modern web development technologies.
 
-Welcome to my portfolio! I'm Alexandria White, a Full Stack Developer based in Nashville, TN. I recently completed Vanderbilt University's Coding Boot Camp, where I honed my skills in the most in-demand web development technologies, including HTML5, CSS3, JavaScript, jQuery, React.js, Node.js, and more. With a passion for software development and a dedication to creating innovative solutions, I'm ready to take on exciting projects and contribute to the world of web development.
+## About me
 
-## 🧐 About me
-
-I'm a curious and detail-oriented developer with a strong focus on user experience and interface design. My goal is to create web applications that not only meet functional requirements but also deliver an exceptional user experience. Throughout my journey in the boot camp, I've gained hands-on experience collaborating with other professionals on real-world projects, allowing me to develop a holistic understanding of full-stack web development.
+Fueled by a genuine passion for software development, I'm dedicated to crafting innovative solutions that uphold the highest standards of quality and user experience. I thrive in collaborative environments and take pride in delivering results within tight deadlines. I'm excited to embrace new challenges and contribute my skills to impactful projects. As a detail-oriented developer, I adeptly translate complex requirements into clean, efficient, and user-friendly code. I'm committed to continuous learning and staying updated with industry trends to provide cutting-edge solutions.
 <img align='right' src='https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif' width='200"'>
-
-## ⚡ Domains
-
-- Full Stack development
-- Web development
-- UI/UX design
 
 ## 💼 Skills
 
@@ -22,7 +15,6 @@ I'm a curious and detail-oriented developer with a strong focus on user experien
 - jQuery, React.js, Node.js
 - MongoDB, Express, Handlebars.js
 - MySQL, SQL
-- Git, GitHub
 - Agile Methodologies
 
 ## ⚡ More about me
