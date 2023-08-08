@@ -4,7 +4,7 @@ Hello! I'm Alexandria White, a highly motivated Full Stack Developer based in Na
 ## About me
 
 Fueled by a genuine passion for software development, I'm dedicated to crafting innovative solutions that uphold the highest standards of quality and user experience. I thrive in collaborative environments and take pride in delivering results within tight deadlines. I'm excited to embrace new challenges and contribute my skills to impactful projects. As a detail-oriented developer, I adeptly translate complex requirements into clean, efficient, and user-friendly code. I'm committed to continuous learning and staying updated with industry trends to provide cutting-edge solutions.
-<img align='right' src='https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif' width='200"'>
+<img align='right' src='https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif' width='150"'>
 
 ## 💼 Skills
 
