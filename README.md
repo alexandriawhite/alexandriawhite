@@ -19,7 +19,7 @@ Fueled by a genuine passion for software development, I'm dedicated to crafting 
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandriawhite&count_private=true&show_icons=true&theme=onedark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandriawhite&layout=compact) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandriawhite&layout=compact) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandriawhite&count_private=true&show_icons=true&theme=onedark) 
 
 ## 🌐 Connect with me
 
